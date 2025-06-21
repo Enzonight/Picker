@@ -13,7 +13,7 @@ apt update && apt upgrade
 pkg install python3
 pkg install git
 
-git clone git clone https://github.com/Enzonight/Picker
+git clone https://github.com/Enzonight/Picker
  
 cd Picker
 
